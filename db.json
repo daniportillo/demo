@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Post 1", "imageUrl": "https://via.placeholder.com/150" },
+    { "id": 2, "title": "Post 2", "imageUrl": "https://via.placeholder.com/728x90.png"},
+    { "id": 3, "title": "Post 3", "imageUrl": "https://via.placeholder.com/300.png"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
